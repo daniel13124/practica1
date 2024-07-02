@@ -1,0 +1,12 @@
+body{
+    background-color:aqua; 
+    color: rgb(145, 124, 124):aqua}
+.foto{
+   width: 25rem;
+    height: auto;
+}
+.titulo{
+    font-size: 2rem;
+padding: 1rem;
+text-align: center    
+}
